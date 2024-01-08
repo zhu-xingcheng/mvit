@@ -1,0 +1,14 @@
+Pillow
+psutil
+PyYAML
+scikit-learn
+simplejson
+tqdm
+typing_extensions
+urllib3
+yacs
+opencv-python
+termcolor
+fairscale
+iopath
+fvcore
